@@ -1,6 +1,6 @@
 ---
 author: "Prateek"
-title: "Placeholder ScienceTitle"
+title: "Placeholder Science Title"
 date: "2022-03-09"
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]

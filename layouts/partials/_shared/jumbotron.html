@@ -4,12 +4,16 @@
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
 			<div class="d-md-flex align-items-center justify-content-center h-100">
+				{{ if not .Params.noFooterTags }}
 				<h2 class="d-md-block d-none align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+				{{ end }}
 			</div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
+			{{ if not .Params.noFooterTags }}
 			{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 			<a class="mt-1 mb-1" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+			{{ end }}
 			{{ end }}
 		</div>
 	</div>

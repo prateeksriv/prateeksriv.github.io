@@ -1,17 +1,17 @@
 baseURL = "https://prateeksrivastava.com/"
 languageCode = "en-us"
 title = "Welcome to Prateek's Website"
-theme = "mediumish"
+theme = ["hugo-shortcode-roneo-collection","mediumish"]
 summaryLength = 25
 copyright = "Prateek Srivastava - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
 disqusShortname = "prateekdisqus"
 #googleAnalytics = "UA-1XXXXXXX1-1"
+publishDir = "public"
 
 [params]
   logo = "/images/logo.png"
-  description ="Welcome to Prateek's Website!"
+  #description ="Welcome to Prateek's Website!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -54,6 +54,11 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "about"
     weight = 200
     url = "/pages/about"
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 220
+    url = "/pages/contact"
 [[menu.main]]
     name = "Imprint"
     identifier = "imprint"

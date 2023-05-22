@@ -3,13 +3,15 @@ author: "Prateek"
 title: "About Prateek"
 date: "2022-03-13"
 description: "About Prateek"
-categories: ["Computing"]
-aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
 hideMeta: true
 searchHidden: true
 ShowBreadCrumbs: false
+noComment: true
+noFooterTags: true
+noPrevNextLinks: true
+noShareLinks: true
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->
