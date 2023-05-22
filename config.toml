@@ -8,6 +8,7 @@ enableEmoji = true
 disqusShortname = "prateekdisqus"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 publishDir = "public"
+customCSS = ["/style.css"]
 
 [params]
   logo = "/images/logo.png"
