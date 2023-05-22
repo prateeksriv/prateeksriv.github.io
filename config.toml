@@ -1,0 +1,87 @@
+baseURL = "https://prateeksrivastava.com/"
+languageCode = "en-us"
+title = "Welcome to Prateek's Website"
+theme = "mediumish"
+summaryLength = 25
+copyright = "Prateek Srivastava - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+disqusShortname = "prateekdisqus"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="Welcome to Prateek's Website!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Prateek Srivastava"
+  thumbnail = "/images/author.jpg"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Prateek Srivastava"
+  subtitle = "Making the world a better place - one byte at a time."
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[outputs.home]
+  html = true
+  rss = true
+  json = true
+
+[params.social]
+  github = "prateeksriv"
+  linkedin = "prateeksrivastava"
+  #xing = "<username>"
+  #medium = "<username>"
+  twitter = "prateek"
+  #instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/pages/about"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 5
+    url = "/"
+[[menu.main]]
+    name = "Categories"
+    identifier = "categories"
+    weight = 20
+    url = "/categories/"
+[[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 25
+    url = "/tags/"
+[[menu.main]]
+    name = "Archive"
+    identifier = "archives"
+    weight = 40
+    url = "/archives/"
+[[menu.main]]
+    name = "Search"
+    identifier = "search"
+    weight = 50
+    url = "/search/"
+

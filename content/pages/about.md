@@ -3,10 +3,7 @@ author: "Prateek"
 title: "About Prateek"
 date: "2022-03-13"
 description: "About Prateek"
-tags: ["markdown", "text"]
-tags: ["markdown", "css", "html", "themes"]
 categories: ["Computing"]
-series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true

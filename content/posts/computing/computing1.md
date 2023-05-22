@@ -1,12 +1,10 @@
 ---
 author: "Prateek"
-title: "Placeholder Title"
+title: "Placeholder Computing Post"
 date: "2022-03-11"
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]
-tags: ["markdown", "css", "html", "themes"]
 categories: ["Computing"]
-series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
