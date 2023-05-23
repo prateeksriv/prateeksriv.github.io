@@ -1,19 +1,21 @@
 baseURL = "https://prateeksrivastava.com/"
 languageCode = "en-us"
 title = "Welcome to Prateek's Website"
-theme = ["hugo-shortcode-roneo-collection","mediumish"]
+theme = []
 summaryLength = 25
 copyright = "Prateek Srivastava - All rights reserved"
 enableEmoji = true
 disqusShortname = "prateekdisqus"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 publishDir = "public"
-customCSS = ["/style.css"]
 
 [params]
   logo = "/images/logo.png"
   #description ="Welcome to Prateek's Website!"
   #mailchimp = "you can provide a mailchimp-link here"
+  customCSS = ["css/custom.css"]
+#  custom_css = ["css/custom.css"]
+#  custom_js = ["js/custom.js"]
 
 [params.author]
   name = "Prateek Srivastava"

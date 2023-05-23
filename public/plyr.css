@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="343cff545437bc2b0304c97517abf17bb80d9887520078e9757df416551ef5d6">
 
 
-  <meta name="request-id" content="D5F8:09AB:280A673:3AE43BA:646BC336" data-pjax-transient="true"/><meta name="html-safe-nonce" content="753c0b118952cd74daf9ead29f700d5ef3aefe4ea7cc3166c5de4a3e652b366b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENUY4OjA5QUI6MjgwQTY3MzozQUU0M0JBOjY0NkJDMzM2IiwidmlzaXRvcl9pZCI6IjQ4OTEwMzI5MDA2NTcyMDE5NzQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="876bf7a03a5c3b0ded426e3f04bd26ef83cbc4e3dbd52a57d1be43de60d0e23e" data-pjax-transient="true"/>
+  <meta name="request-id" content="BD2E:457C:692C3CF:9505672:646BC2FC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f94174921dbb7c351676a6a78d2e02bc812035ad9269b35d1e2251ee04c24e7d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCRDJFOjQ1N0M6NjkyQzNDRjo5NTA1NjcyOjY0NkJDMkZDIiwidmlzaXRvcl9pZCI6IjQ2MTI1NDUyMjgzMTk3MzY1NzIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="2995ed52104a1737f3ce8a8288459b8cf22d1caaa4559290237ba15189a132d2" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:30794868" data-turbo-transient>
@@ -587,7 +587,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Q+IMWVa3YXpizBzuc0JCL6PFcn+VYbNPZGEtRab1xt9Wzb4W2/gEC/LYTjtL9t6C5Y1gCokKZ/PFLrEf429HKA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Lzb2Gt3WD0wlIk0uKtISoK1Y20AmtJ9ctH8//TDmzcYWgVqRyLszZj1zAlR8O/x1GNNUcGNrEvUOX4AF5u7nNA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1567,71 +1567,10 @@
   <div class="Box-header position-relative">
     <h2 class="sr-only">Latest commit</h2>
     <div class="js-details-container Details d-flex rounded-top-2 flex-items-center flex-wrap" data-issue-and-pr-hovercards-enabled>
-      
-  <div class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1 hx_avatar_stack_commit" >
-    
-<div class="AvatarStack flex-self-start  " >
-  <div class="AvatarStack-body" >
-      <a class="avatar avatar-user" style="width:24px;height:24px;" data-test-selector="commits-avatar-stack-avatar-link" data-hovercard-type="user" data-hovercard-url="/users/sampotts/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sampotts">
-        <img data-test-selector="commits-avatar-stack-avatar-image" src="https://avatars.githubusercontent.com/u/719092?s=48&amp;v=4" width="24" height="24" alt="@sampotts" class=" avatar-user" />
-</a>  </div>
-</div>
-
-  </div>
-  <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-    <div class="css-truncate css-truncate-overflow color-fg-muted" >
-          <a class="commit-author user-mention" title="View all commits by sampotts" href="/sampotts/plyr/commits?author=sampotts">sampotts</a>
-    
-  
-
-        <span class="d-none d-sm-inline">
-          <a data-pjax="true" data-test-selector="commit-tease-commit-message" title="chore(release): 3.7.8" class="Link--primary markdown-title" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-        </span>
-    </div>
-    <span
-      class="hidden-text-expander ml-2 d-inline-block d-inline-block d-lg-none"
-      
-    >
-      <button
-        type="button"
-        class="color-fg-default ellipsis-expander js-details-target"
-        aria-expanded="false"
-        
-      >
-        &hellip;
-      </button>
-    </span>
-    <div class="d-flex flex-auto flex-justify-end ml-3 flex-items-baseline">
-        <include-fragment accept="text/fragment+html" src="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e/rollup?direction=sw" class="d-inline" ></include-fragment>
-      <a
-        href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e"
-        class="f6 Link--secondary text-mono ml-2 d-none d-lg-inline"
-        data-pjax="#repo-content-pjax-container"
-        data-turbo-frame="repo-content-turbo-frame"
-        
-      >
-        0c97594
-      </a>
-      <a
-        href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e"
-        class="Link--secondary ml-2"
-        data-pjax="#repo-content-pjax-container"
-        data-turbo-frame="repo-content-turbo-frame"
-        
-      >
-        <relative-time datetime="2023-03-24T12:02:41Z" class="no-wrap">Mar 24, 2023</relative-time>
-      </a>
-    </div>
-  </div>
-  <div class="pl-0 pl-md-5 flex-order-1 width-full Details-content--hidden">
-      <div class="mt-2">
-        <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-test-selector="commit-tease-commit-message" class="Link--primary text-bold" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-      </div>
-    <div class="d-flex flex-items-center">
-      <code class="border d-lg-none mt-2 px-1 rounded-2">0c97594</code>
-    </div>
-  </div>
-      <div class="flex-shrink-0">
+      <include-fragment src="/sampotts/plyr/tree-commit/0c9759455cbfcce888c66925c3b457ce06cee31e" class="d-flex flex-auto flex-items-center" aria-busy="true" aria-label="Loading latest commit">
+        <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+        <div class="Skeleton Skeleton--text col-5 ml-3">&nbsp;</div>
+</include-fragment>      <div class="flex-shrink-0">
         <h2 class="sr-only">Git stats</h2>
         <ul class="list-style-none d-flex">
           <li class="ml-0 ml-md-3">
@@ -1655,7 +1594,8 @@
     
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sampotts/plyr/tree/0c9759455cbfcce888c66925c3b457ce06cee31e">Permalink</a>
+  <include-fragment src="/sampotts/plyr/file-list/master">
+      <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sampotts/plyr/tree/0c9759455cbfcce888c66925c3b457ce06cee31e">Permalink</a>
 
   <div data-view-component="true" class="include-fragment-error flash flash-error flash-full py-2">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
@@ -1686,13 +1626,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Update pull_request_template.md" class="Link--secondary" href="/sampotts/plyr/commit/3096dd9513e144ea59a90fcd2a0f587bd0c2ee91">Update pull_request_template.md</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-01-29T23:18:47+11:00" data-view-component="true">January 29, 2021 23:18</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1708,13 +1646,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Added local server, package upgrades" class="Link--secondary" href="/sampotts/plyr/commit/4f263ebb1a3406dc2294f99cbc8a047b286dd829">Added local server, package upgrades</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-01-13T15:49:29Z" data-view-component="true">January 13, 2020 15:49</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1730,13 +1666,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="feat: demo style tweaks" class="Link--secondary" href="/sampotts/plyr/commit/ae59c117b57d8ae7c5cc83a99d05d55015010045">feat: demo style tweaks</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-24T22:35:49+11:00" data-view-component="true">March 24, 2023 22:35</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1752,13 +1686,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(release): 3.7.8" class="Link--secondary" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-24T23:02:41+11:00" data-view-component="true">March 24, 2023 23:02</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1774,13 +1706,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="fix: add babel plugin to transform optional chaining" class="Link--secondary" href="/sampotts/plyr/commit/5f2cb90bc6ef417e5bfab078bc4eb2dfdecc4226">fix: add babel plugin to transform optional chaining</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2022-04-20T20:12:08+10:00" data-view-component="true">April 20, 2022 20:12</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1796,13 +1726,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Converted to 2 space indentation" class="Link--secondary" href="/sampotts/plyr/commit/502d5977d79148957828cbf313b7ef4c9f31973f">Converted to 2 space indentation</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-04-11T16:23:14+10:00" data-view-component="true">April 11, 2020 16:23</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -1818,241 +1746,11 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="v3.6.3 (#2016)
-
-* force fullscreen events to trigger on plyr element (media element in iOS) and not fullscreen container
-
-* Fixing &quot;missing code in detail&quot; for PlyrEvent type
-
-When using typescript and listening for youtube statechange event, it is missing the code property definition inside the event (even though it is provided in the code).
-By making events a map of key-value, we can add easily custom event type for specific event name. Since YouTube &quot;statechange&quot; event differs from the basic PlyrEvent, I added a new Event Type &quot;PlyrStateChangeEvent&quot; having a code property corresponding to a YoutubeState enum defined by the YouTube API documentation.
-This pattern follows how addEventListener in the lib.dom.d.ts is defined.
-
-* Update link to working dash.js demo (was broken)
-
-* Fix PreviewThumbnailsOptions type
-
-According to the docs, the `src` should also accept an array of strings.
-
-* fix issue #1872
-
-* Check if key is a string before attempt --plyr checking
-
-* Fix for Slow loading videos not autoplaying
-
-* Fix for Slow loading videos not autoplaying
-
-* Network requests are not cancelled after the player is destroyed
-
-* Fix for apect ratio problem when using Vimeo player on mobile devices (issue #1940)
-
-* chore: update packages and linting
-
-* Invoke custom listener on triggering fullscreen via double-click
-
-* Fix volume when unmuting from volume 0
-
-* adding a nice Svelte plugin that I found
-
-* Add missing unit to calc in media query
-
-* Assigning player's lastSeekTime on rewind/fast forward to prevent immediate controls hide on mobile
-
-* Fix youtube not working when player is inside shadow dom
-
-* v3.6.2
-
-* ESLint to use common config
-
-* add BitChute to users list
-
-* Fix aspect ratio issue
-
-* Revert noCookie change
-
-* feat: demo radius tweaks
-
-* fix: poster image shouldn’t receive click events
-
-* chore: package updates
-
-* chore: linting
-
-* feat: custom controls option for embedded players
-
-* Package upgrades
-
-* ESLint to use common config
-
-* Linting changes
-
-* Update README.md
-
-* chore: formatting
-
-* fix: revert pointer events change for poster
-
-* fix: hack for Safari 14 not repainting Vimeo embed on entering fullscreen
-
-* fix: demo using custom controls for YouTube
-
-* doc: Add STROLLÿN among the list of Plyr users
-
-* Fixes #2005
-
-* fix: overflowing volume slider
-
-* chore: clean up CSS
-
-* fix: hide poster when not using custom controls
-
-* Package upgrades
-
-* ESLint to use common config
-
-* Linting changes
-
-* chore: revert customControls default option (to prevent breaking change)
-
-* docs: changelog for v3.6.3
-
-Co-authored-by: Som Meaden &lt;som@theprojectsomething.com&gt;
-Co-authored-by: akuma06 &lt;demon.akuma06@gmail.com&gt;
-Co-authored-by: Jonathan Arbely &lt;dev@jonathanarbely.de&gt;
-Co-authored-by: Takeshi &lt;iwatakeshi@users.noreply.github.com&gt;
-Co-authored-by: Hex &lt;hex@codeigniter.org.cn&gt;
-Co-authored-by: Syed Husain &lt;syed.husain@appspace.com&gt;
-Co-authored-by: Danielh112 &lt;Daniel@sbgsportssoftware.com&gt;
-Co-authored-by: Danil Stoyanov &lt;d.stoyanov@corp.mail.ru&gt;
-Co-authored-by: Guru Prasad Srinivasa &lt;gurupras@buffalo.edu&gt;
-Co-authored-by: Stephane Fortin Bouchard &lt;stephane.f.bouchard@gmail.com&gt;
-Co-authored-by: Zev Averbach &lt;zev@averba.ch&gt;
-Co-authored-by: Vincent Orback &lt;hello@vincentorback.se&gt;
-Co-authored-by: trafium &lt;trafium@gmail.com&gt;
-Co-authored-by: xansen &lt;27698939+xansen@users.noreply.github.com&gt;
-Co-authored-by: zoomerdev &lt;59863739+zoomerdev@users.noreply.github.com&gt;
-Co-authored-by: Mikaël Castellani &lt;mikael.castellani@gmail.com&gt;
-Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" href="/sampotts/plyr/commit/e8d883edba3ee87ff5fbef043ffa50a1a4ae391b">v3.6.3 (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="742904746" data-permission-text="Title is private" data-url="https://github.com/sampotts/plyr/issues/2016" data-hovercard-type="pull_request" data-hovercard-url="/sampotts/plyr/pull/2016/hovercard" href="https://github.com/sampotts/plyr/pull/2016">#2016</a><a data-pjax="true" title="v3.6.3 (#2016)
-
-* force fullscreen events to trigger on plyr element (media element in iOS) and not fullscreen container
-
-* Fixing &quot;missing code in detail&quot; for PlyrEvent type
-
-When using typescript and listening for youtube statechange event, it is missing the code property definition inside the event (even though it is provided in the code).
-By making events a map of key-value, we can add easily custom event type for specific event name. Since YouTube &quot;statechange&quot; event differs from the basic PlyrEvent, I added a new Event Type &quot;PlyrStateChangeEvent&quot; having a code property corresponding to a YoutubeState enum defined by the YouTube API documentation.
-This pattern follows how addEventListener in the lib.dom.d.ts is defined.
-
-* Update link to working dash.js demo (was broken)
-
-* Fix PreviewThumbnailsOptions type
-
-According to the docs, the `src` should also accept an array of strings.
-
-* fix issue #1872
-
-* Check if key is a string before attempt --plyr checking
-
-* Fix for Slow loading videos not autoplaying
-
-* Fix for Slow loading videos not autoplaying
-
-* Network requests are not cancelled after the player is destroyed
-
-* Fix for apect ratio problem when using Vimeo player on mobile devices (issue #1940)
-
-* chore: update packages and linting
-
-* Invoke custom listener on triggering fullscreen via double-click
-
-* Fix volume when unmuting from volume 0
-
-* adding a nice Svelte plugin that I found
-
-* Add missing unit to calc in media query
-
-* Assigning player's lastSeekTime on rewind/fast forward to prevent immediate controls hide on mobile
-
-* Fix youtube not working when player is inside shadow dom
-
-* v3.6.2
-
-* ESLint to use common config
-
-* add BitChute to users list
-
-* Fix aspect ratio issue
-
-* Revert noCookie change
-
-* feat: demo radius tweaks
-
-* fix: poster image shouldn’t receive click events
-
-* chore: package updates
-
-* chore: linting
-
-* feat: custom controls option for embedded players
-
-* Package upgrades
-
-* ESLint to use common config
-
-* Linting changes
-
-* Update README.md
-
-* chore: formatting
-
-* fix: revert pointer events change for poster
-
-* fix: hack for Safari 14 not repainting Vimeo embed on entering fullscreen
-
-* fix: demo using custom controls for YouTube
-
-* doc: Add STROLLÿN among the list of Plyr users
-
-* Fixes #2005
-
-* fix: overflowing volume slider
-
-* chore: clean up CSS
-
-* fix: hide poster when not using custom controls
-
-* Package upgrades
-
-* ESLint to use common config
-
-* Linting changes
-
-* chore: revert customControls default option (to prevent breaking change)
-
-* docs: changelog for v3.6.3
-
-Co-authored-by: Som Meaden &lt;som@theprojectsomething.com&gt;
-Co-authored-by: akuma06 &lt;demon.akuma06@gmail.com&gt;
-Co-authored-by: Jonathan Arbely &lt;dev@jonathanarbely.de&gt;
-Co-authored-by: Takeshi &lt;iwatakeshi@users.noreply.github.com&gt;
-Co-authored-by: Hex &lt;hex@codeigniter.org.cn&gt;
-Co-authored-by: Syed Husain &lt;syed.husain@appspace.com&gt;
-Co-authored-by: Danielh112 &lt;Daniel@sbgsportssoftware.com&gt;
-Co-authored-by: Danil Stoyanov &lt;d.stoyanov@corp.mail.ru&gt;
-Co-authored-by: Guru Prasad Srinivasa &lt;gurupras@buffalo.edu&gt;
-Co-authored-by: Stephane Fortin Bouchard &lt;stephane.f.bouchard@gmail.com&gt;
-Co-authored-by: Zev Averbach &lt;zev@averba.ch&gt;
-Co-authored-by: Vincent Orback &lt;hello@vincentorback.se&gt;
-Co-authored-by: trafium &lt;trafium@gmail.com&gt;
-Co-authored-by: xansen &lt;27698939+xansen@users.noreply.github.com&gt;
-Co-authored-by: zoomerdev &lt;59863739+zoomerdev@users.noreply.github.com&gt;
-Co-authored-by: Mikaël Castellani &lt;mikael.castellani@gmail.com&gt;
-Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" href="/sampotts/plyr/commit/e8d883edba3ee87ff5fbef043ffa50a1a4ae391b">)</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-11-14T13:24:11+11:00" data-view-component="true">November 14, 2020 13:24</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2068,13 +1766,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore: removed dist directories from git" class="Link--secondary" href="/sampotts/plyr/commit/028be22dec323b23727315ef0c34682192991488">chore: removed dist directories from git</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-01-30T00:06:48+11:00" data-view-component="true">January 30, 2021 00:06</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2090,13 +1786,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="update the gitpod setup description to be more precise." class="Link--secondary" href="/sampotts/plyr/commit/10f366fe32348259c9bb15cfdb7feeffcb3f0278">update the gitpod setup description to be more precise.</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-03-16T07:16:22Z" data-view-component="true">March 16, 2020 07:16</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2112,13 +1806,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(build): use pnpm instead of yarn" class="Link--secondary" href="/sampotts/plyr/commit/ed0b901d1175e1549324526b19ec0fac08b25fe3">chore(build): use pnpm instead of yarn</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-09T22:33:37+11:00" data-view-component="true">March 9, 2023 22:33</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2134,13 +1826,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore: removed dist directories from git" class="Link--secondary" href="/sampotts/plyr/commit/028be22dec323b23727315ef0c34682192991488">chore: removed dist directories from git</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-01-30T00:06:48+11:00" data-view-component="true">January 30, 2021 00:06</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2156,13 +1846,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Converted to 2 space indentation" class="Link--secondary" href="/sampotts/plyr/commit/502d5977d79148957828cbf313b7ef4c9f31973f">Converted to 2 space indentation</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-04-11T16:23:14+10:00" data-view-component="true">April 11, 2020 16:23</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2178,13 +1866,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Add stickler config" class="Link--secondary" href="/sampotts/plyr/commit/8bbf66a0fb1e0ff40a83f9efe17c2d17abfb5cd2">Add stickler config</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2018-07-10T20:53:09+02:00" data-view-component="true">July 10, 2018 20:53</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2200,13 +1886,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore: stylelint config changes" class="Link--secondary" href="/sampotts/plyr/commit/cbd1596af4673a954051e0bfffdde7558dd24293">chore: stylelint config changes</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-12-16T22:56:31+11:00" data-view-component="true">December 16, 2021 22:56</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2222,13 +1906,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(release): 3.7.8" class="Link--secondary" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-24T23:02:41+11:00" data-view-component="true">March 24, 2023 23:02</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2244,13 +1926,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Update CONTRIBUTING.md" class="Link--secondary" href="/sampotts/plyr/commit/ea87b9c7884c53c97854fe3efc47528896cdde2b">Update CONTRIBUTING.md</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-01-29T23:15:44+11:00" data-view-component="true">January 29, 2021 23:15</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2266,13 +1946,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="docs: fix typos" class="Link--secondary" href="/sampotts/plyr/commit/626e1dba64254702305458a2ff1da25616b703e5">docs: fix typos</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-12-16T22:56:46+11:00" data-view-component="true">December 16, 2021 22:56</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2288,13 +1966,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Housekeeping" class="Link--secondary" href="/sampotts/plyr/commit/e48b1d11ce37960bc5803056561ec2b3996258c3">Housekeeping</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-04-24T00:47:41+10:00" data-view-component="true">April 24, 2020 00:47</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2310,13 +1986,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(release): 3.7.8" class="Link--secondary" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-24T23:02:41+11:00" data-view-component="true">March 24, 2023 23:02</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2332,13 +2006,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Gulp tweaks" class="Link--secondary" href="/sampotts/plyr/commit/1890a9378df540fa224704a6a62c6ef5a9f026eb">Gulp tweaks</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2019-06-02T23:16:45+10:00" data-view-component="true">June 2, 2019 23:16</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2354,13 +2026,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(cspell): add dictionaries" class="Link--secondary" href="/sampotts/plyr/commit/d9161212ff353a63bd1e9da192d46959a66219f1">chore(cspell): add dictionaries</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-09T22:33:37+11:00" data-view-component="true">March 9, 2023 22:33</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2376,13 +2046,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Housekeeping" class="Link--secondary" href="/sampotts/plyr/commit/e48b1d11ce37960bc5803056561ec2b3996258c3">Housekeeping</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-04-24T00:47:41+10:00" data-view-component="true">April 24, 2020 00:47</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2398,13 +2066,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="Gulp file broken down" class="Link--secondary" href="/sampotts/plyr/commit/5516db22c3dd38a6bb3ec8674e36bcc8f9bba90c">Gulp file broken down</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2020-03-29T11:36:44+11:00" data-view-component="true">March 29, 2020 11:36</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2420,13 +2086,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(release): 3.7.8" class="Link--secondary" href="/sampotts/plyr/commit/0c9759455cbfcce888c66925c3b457ce06cee31e">chore(release): 3.7.8</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-24T23:02:41+11:00" data-view-component="true">March 24, 2023 23:02</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2442,13 +2106,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore: stylelint config changes" class="Link--secondary" href="/sampotts/plyr/commit/cbd1596af4673a954051e0bfffdde7558dd24293">chore: stylelint config changes</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2021-12-16T22:56:31+11:00" data-view-component="true">December 16, 2021 22:56</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2464,13 +2126,11 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
-                    <a data-pjax="true" title="chore(build): use pnpm instead of yarn" class="Link--secondary" href="/sampotts/plyr/commit/ed0b901d1175e1549324526b19ec0fac08b25fe3">chore(build): use pnpm instead of yarn</a>
-              </span>
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <relative-time tense="past" datetime="2023-03-09T22:33:37+11:00" data-view-component="true">March 9, 2023 22:33</relative-time>
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
           </div>
 
         </div>
@@ -2480,7 +2140,7 @@ Co-authored-by: dirkjf &lt;d.j.faber@outlook.com&gt;" class="Link--secondary" hr
 </button>    </div>
   </div>
 
-
+</include-fragment>
 
 
 </div>
@@ -4546,38 +4206,38 @@ document then the shortcuts will work when any element has focus, apart from an 
 
     <h2 class="h4 mb-3">
       <a href="/sampotts/plyr/network/dependents" data-view-component="true" class="Link--primary no-underline">
-        Used by <span title="10,000" data-view-component="true" class="Counter">10k</span>
+        Used by <span title="9,993" data-view-component="true" class="Counter">10k</span>
 </a>    </h2>
 
       <a class="d-flex flex-items-center" href="/sampotts/plyr/network/dependents">
         <ul class="hx_flex-avatar-stack list-style-none min-width-0">
               <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/132955197?s=64&amp;v=4" width="32" height="32" alt="@enthusiastica" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/100474656?s=64&amp;v=4" width="32" height="32" alt="@rakesh666exe" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/50282797?s=64&amp;v=4" width="32" height="32" alt="@SecondDragon" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/65617666?s=64&amp;v=4" width="32" height="32" alt="@chadrackkyungu" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/114822626?s=64&amp;v=4" width="32" height="32" alt="@Onllsan" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/111524889?s=64&amp;v=4" width="32" height="32" alt="@phoenix-monarch" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
-                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/70865272?s=64&amp;v=4" width="32" height="32" alt="@niftaliyev" />
-              </li>
-              <li class="hx_flex-avatar-stack-item">
                 <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/45344920?s=64&amp;v=4" width="32" height="32" alt="@abdelaliabouelhassan" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/3294857?s=64&amp;v=4" width="32" height="32" alt="@ekanur" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/15372327?s=64&amp;v=4" width="32" height="32" alt="@kiohoviera" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/100217369?s=64&amp;v=4" width="32" height="32" alt="@hinh3010" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/38040789?s=64&amp;v=4" width="32" height="32" alt="@therealharpaljadeja" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/30426750?s=64&amp;v=4" width="32" height="32" alt="@akdgns12" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/108136459?s=64&amp;v=4" width="32" height="32" alt="@az1kkRich" />
+              </li>
+              <li class="hx_flex-avatar-stack-item">
+                <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/46328075?s=64&amp;v=4" width="32" height="32" alt="@abraham7007" />
               </li>
         </ul>
           <span class="px-2 text-bold text-small no-wrap">
-            + 9,992
+            + 9,985
           </span>
       </a>
 

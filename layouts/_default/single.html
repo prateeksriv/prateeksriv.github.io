@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-    {{- partial "_shared/title.html" . -}}
+{{- partial "_shared/title.html" . -}}
     <div class="main-content">
         <!-- Begin Article
         ================================================== -->
@@ -39,7 +39,7 @@
                         {{end}}
                         {{end}}                        
                         <!-- Post Title -->
-                        <h1 class="posttitle">{{ .Title }}</h1> 
+                        {{- partial "_shared/posttitle.html" . -}}
                     </div>
 
                     <!-- Post Featured Image -->

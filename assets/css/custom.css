@@ -1,0 +1,28 @@
+.post-content p {
+    text-align: justify;
+}
+
+.article-post p {
+    text-align: justify;
+}
+
+
+.posttitle {
+    color: #2E3436;
+}
+
+.headlevel {
+    color: #2E3436;
+}
+
+// bootstrap SVG-Icons
+.bi {
+  display: inline-block;
+}
+.bi-link {
+  width: 1.2rem;
+  height: 1.2rem;
+  color: var(--wk-accent-color-3);
+}
+
+

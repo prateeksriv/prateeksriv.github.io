@@ -9,9 +9,6 @@ noPrevNextLinks: true
 noShareLinks: true
 ---
 
-{{< box warning >}}
-This page is under construction
-{{< /box >}}
 
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
@@ -44,11 +41,9 @@ This page is under construction
       required
     ></textarea>
   </div>
-  <div>
-    <input type="submit" value="Download CTA" />
-    <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
-      <input type="text" id="_gotcha" name="_gotcha" tabindex="-1" autocomplete="off" />
-    </div>
+  <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
+      <input type="hidden" id="_gotcha" name="_gotcha" tabindex="-1" autocomplete="off" />
+  </div>
   </div>
   <div class="mb-3 pt-0">
     <button
