@@ -4,6 +4,7 @@
 <div class="container">
     <div id="comments" class="row justify-content-center mb-5">
         <div class="col-md-8"> 
+            <h5 class="comment-header">Comments:</h5>
             {{ if .Site.DisqusShortname }}
                 {{ template "_internal/disqus.html" . }}
             {{ end }}
