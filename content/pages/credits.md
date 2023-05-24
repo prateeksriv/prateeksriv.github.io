@@ -9,7 +9,6 @@ noPrevNextLinks: true
 noShareLinks: true
 ---
 
-# test
 
 Credits to creators for media used on this website:
 

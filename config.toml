@@ -1,11 +1,11 @@
-baseURL = "https://prateeksrivastava.com/"
+baseURL = "https://www.prateeksrivastava.com/"
 languageCode = "en-us"
 title = "Welcome to Prateek's Website"
 theme = []
 summaryLength = 25
 copyright = "Prateek Srivastava - All rights reserved"
 enableEmoji = true
-disqusShortname = "prateekdisqus"
+#disqusShortname = "prateekdisqus"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 publishDir = "public"
 
@@ -16,6 +16,9 @@ publishDir = "public"
   customCSS = ["css/custom.css"]
 #  custom_css = ["css/custom.css"]
 #  custom_js = ["js/custom.js"]
+  comments = true
+  CusdisId = "147112f2-a5fc-48f3-b5c1-dd1024177818"
+  #ChirpyDomain = "www.prateeksrivastava.com"
 
 [params.author]
   name = "Prateek Srivastava"

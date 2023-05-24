@@ -85,7 +85,7 @@
         </div>
         <!-- End Article
         ================================================== -->
-        {{ if .Params.comments }}
+        {{ if .Site.Params.comments }}
             {{- partial "single-partials/comments.html" . -}}
         {{ end }}
     </div>
