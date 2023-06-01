@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>text on Welcome to Prateek's Website</title><link>https://www.prateeksrivastava.com/tags/text/</link><description>Recent content in text on Welcome to Prateek's Website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Prateek Srivastava - All rights reserved</copyright><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.prateeksrivastava.com/tags/text/index.xml" rel="self" type="application/rss+xml"/><item><title>Placeholder Computing Post</title><link>https://www.prateeksrivastava.com/posts/computing/computing1/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.prateeksrivastava.com/posts/computing/computing1/</guid><description>Lorem Ipsum Dolor Si Amet</description></item><item><title>Placeholder Science Title</title><link>https://www.prateeksrivastava.com/posts/science/placeholder-text2/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.prateeksrivastava.com/posts/science/placeholder-text2/</guid><description>Lorem Ipsum Dolor Si Amet</description></item><item><title>Placeholder Science Title2</title><link>https://www.prateeksrivastava.com/posts/science/placeholder-text3/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.prateeksrivastava.com/posts/science/placeholder-text3/</guid><description>Lorem Ipsum Dolor Si Amet</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on Welcome to Prateek&#39;s Website</title>
+    <link>https://www.prateeksrivastava.com/tags/text/</link>
+    <description>Recent content in text on Welcome to Prateek&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Prateek Srivastava - All rights reserved</copyright>
+    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.prateeksrivastava.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder Computing Post</title>
+      <link>https://www.prateeksrivastava.com/2022/03/placeholder-computing-post/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prateeksrivastava.com/2022/03/placeholder-computing-post/</guid>
+      <description>&lt;h1 id=&#34;heeeee&#34;&gt;heeeee&lt;/h1&gt;
+&lt;h2 id=&#34;hhhh&#34;&gt;hhhh&lt;/h2&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Science Title</title>
+      <link>https://www.prateeksrivastava.com/2022/03/placeholder-science-title/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prateeksrivastava.com/2022/03/placeholder-science-title/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Science Title2</title>
+      <link>https://www.prateeksrivastava.com/2022/03/placeholder-science-title2/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prateeksrivastava.com/2022/03/placeholder-science-title2/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
