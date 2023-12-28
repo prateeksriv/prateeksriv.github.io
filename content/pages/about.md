@@ -3,6 +3,7 @@ author: "Prateek"
 title: "About Prateek"
 date: "2023-12-27"
 # description: "About Prateek"
+url: /about/
 tags: ["personal"]
 categories: ["Info"]
 series: ["Personal"]
@@ -24,3 +25,4 @@ In my current role, I lead a cross-functional team of software engineers, design
 
 I have MBA with specialization in Strategic Management and Bachelor of Engineering in Computer Science and Engineering.
 
+I like to experience new cultures during travels :airplane: :bullettrain_side:, astronomy :milky_way: :telescope:, watching sci-fi movies :movie_camera:, listening to classical music :notes: and spending time with my family. I use this website to share information about myself and share my personal opinions :clipboard: and ideas :bulb:. My goal in life is to make the world :earth_asia: a better place than how I found it :smile:.

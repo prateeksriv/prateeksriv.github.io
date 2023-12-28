@@ -1,60 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Welcome to Prateek&#39;s Website</title>
+    <title>Tags on Prateek&#39;s Website</title>
     <link>https://prateeksrivastava.com/tags/</link>
-    <description>Recent content in Tags on Welcome to Prateek&#39;s Website</description>
+    <description>Recent content in Tags on Prateek&#39;s Website</description>
     <image>
+      <title>Prateek&#39;s Website</title>
       <url>https://prateeksrivastava.com/papermod-cover.png</url>
       <link>https://prateeksrivastava.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://prateeksrivastava.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Prateek Srivastava</copyright>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://prateeksrivastava.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
       <link>https://prateeksrivastava.com/tags/personal/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://prateeksrivastava.com/tags/personal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>markdown</title>
       <link>https://prateeksrivastava.com/tags/markdown/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://prateeksrivastava.com/tags/markdown/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>text</title>
       <link>https://prateeksrivastava.com/tags/text/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://prateeksrivastava.com/tags/text/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>iceland</title>
       <link>https://prateeksrivastava.com/tags/iceland/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://prateeksrivastava.com/tags/iceland/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>switzerland</title>
       <link>https://prateeksrivastava.com/tags/switzerland/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://prateeksrivastava.com/tags/switzerland/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://prateeksrivastava.com/pages/about/</loc>
+    <loc>https://prateeksrivastava.com/posts/</loc>
+    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prateeksrivastava.com/</loc>
+    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prateeksrivastava.com/about/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/categories/</loc>
@@ -26,20 +32,14 @@
     <loc>https://prateeksrivastava.com/tags/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://prateeksrivastava.com/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prateeksrivastava.com/pages/contact/</loc>
+    <loc>https://prateeksrivastava.com/contact/</loc>
     <lastmod>2023-05-22T11:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://prateeksrivastava.com/pages/credits/</loc>
+    <loc>https://prateeksrivastava.com/credits/</loc>
     <lastmod>2023-05-22T11:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://prateeksrivastava.com/pages/thankyou/</loc>
+    <loc>https://prateeksrivastava.com/thankyou/</loc>
     <lastmod>2023-05-22T11:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://prateeksrivastava.com/posts/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/categories/computing/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
@@ -59,10 +59,16 @@
     <loc>https://prateeksrivastava.com/tags/iceland/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://prateeksrivastava.com/posts/policy/placeholder-text2/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://prateeksrivastava.com/posts/science/placeholder-text2/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/posts/travel/travel/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prateeksrivastava.com/posts/policy/placeholder-text3/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/posts/science/placeholder-text3/</loc>
@@ -71,7 +77,13 @@
     <loc>https://prateeksrivastava.com/posts/travel/placeholder-text2/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://prateeksrivastava.com/posts/policy/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://prateeksrivastava.com/categories/science/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prateeksrivastava.com/posts/science/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/tags/switzerland/</loc>
@@ -81,9 +93,6 @@
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/posts/travel/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prateeksrivastava.com/posts/science/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://prateeksrivastava.com/archives/</loc>

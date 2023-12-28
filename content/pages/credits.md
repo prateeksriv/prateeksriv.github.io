@@ -1,5 +1,6 @@
 ---
 title: "Credits"
+url: /credits/
 date: 2023-05-22T11:03:59+00:00
 hideMeta: true
 searchHidden: true

@@ -1,5 +1,5 @@
 ---
-title: Urbanism
-summary: Contains posts related to New Urbanism Movement
-description: Contains posts related to New Urbanism Movement
+title: Science
+summary: Contains posts related to Science
+description: Contains posts related to Science
 ---
