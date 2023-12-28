@@ -29,7 +29,7 @@ minify:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: apple-touch-icon.png
     iconHeight: 35
 
 languages:
@@ -47,28 +47,28 @@ languages:
                   url: /
                   weight: 5
                 - name: About
-                  url: /about/
+                  url: about/
                   weight: 10
                 - name: Blog
-                  url: /posts/
+                  url: posts/
                   weight: 20
                 #- identifier: categories
                 #  name: Categories
-                #  url: /categories/
+                #  url: categories/
                 #  weight: 30
                 - identifier: tags
                   name: Tags
-                  url: /tags/
+                  url: tags/
                   weight: 40
                 - identifier: archives
                   name: Archives
-                  url: /archives/
+                  url: archives/
                   weight: 50
                 - name: Search
-                  url: /search/
+                  url: search/
                   weight: 60
                 - name: Contact
-                  url: /contact/
+                  url: contact/
                   weight: 80
 
 outputs:
@@ -109,7 +109,7 @@ params:
       enabled: true # needs to be explicitly set
       title: "Prateek Srivastava"
       subtitle: "Technology Leader, Strategic Planner, Traveler, Science Enthusiast, Family Man."
-      imageUrl: "/images/author.jpg"
+      imageUrl: "images/author.jpg"
       imageWidth: 300
       imageHeight: 300
       imageTitle: Prateek's Profile image
